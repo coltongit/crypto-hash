@@ -33,11 +33,11 @@
 		"browser"
 	],
 	"devDependencies": {
-		"@sindresorhus/is": "^0.13.0",
-		"ava": "^0.25.0",
+		"@sindresorhus/is": "^4.0.0",
+		"ava": "^3.15.0",
 		"hash.js": "^1.1.5",
-		"karmatic": "1.0.6",
-		"xo": "^0.23.0"
+		"karmatic": "2.1.0",
+		"xo": "^0.37.1"
 	},
 	"browser": "browser.js"
 }
